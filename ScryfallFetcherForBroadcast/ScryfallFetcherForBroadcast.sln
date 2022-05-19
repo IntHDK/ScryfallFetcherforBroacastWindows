@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScryfallFetcherForBroadcast", "ScryfallFetcherForBroadcast.csproj", "{6CC9FCA0-CC42-42EA-90BD-9BFE2FC96B17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScryfallFetch", "..\ScryfallFetch\ScryfallFetch.csproj", "{F3B6D795-95D7-4EC6-9F00-C476CA37A903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC9FCA0-CC42-42EA-90BD-9BFE2FC96B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC9FCA0-CC42-42EA-90BD-9BFE2FC96B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC9FCA0-CC42-42EA-90BD-9BFE2FC96B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC9FCA0-CC42-42EA-90BD-9BFE2FC96B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B6D795-95D7-4EC6-9F00-C476CA37A903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B6D795-95D7-4EC6-9F00-C476CA37A903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B6D795-95D7-4EC6-9F00-C476CA37A903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B6D795-95D7-4EC6-9F00-C476CA37A903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {102A8A05-FBAD-4F44-A68C-C04186034025}
+	EndGlobalSection
+EndGlobal
